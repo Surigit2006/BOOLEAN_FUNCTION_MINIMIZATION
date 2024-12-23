@@ -1,4 +1,8 @@
 # BOOLEAN_FUNCTION_MINIMIZATION
+**DATE:**  23/09/24
+
+
+
 
 **AIM:**
 
